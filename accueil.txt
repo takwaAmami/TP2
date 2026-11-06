@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        MamaMia Pizzeria!
+    </title>
+</head>
+<body>
+    <header style="font-size: 70px;"><i>Pizzaria MamaMia</i></header>
+<table>
+    <tr>
+        <td>
+            <p style="width: 400px; font-size: 25px;">Bienvenue dans notre pizzeria,Nous avons à cœur de vous offrir une expérience conviviale,en préparant nos pizzas avec des ingrédients soigneusement sélectionnés et des recettes inspirées de la tradition italienne. Que vous veniez en famille, entre amis ou pour un repas rapide.Bon appétit et merci de votre visite !</p>
+        </td>
+
+        <td>
+            <img src="1.png" width="700" length="1400" up="500px" style="width: 700px; height: auto;margin-top: 100px; margin-left: 200px;">
+              </td>
+    </tr>
+</table>
+<a href="contact.html">nos contact</a>
+<a href="menu.html">notre Menu</a>
+<h1><i>Notre Objectifs</i></h1>
+<ul>
+<li>Une expérience extraordinaire.</li>
+<li>Des plats pour tous les goûts.</li>
+<li>Préparer la meilleure pizza.</li></ul>
+<table border="4">
+    <caption style="font-size: 25px;">Nous somme:</caption>
+    <tr>
+        <td rowspan="5">Equipe de travail</td>
+        <td>Nom</td>
+        <td>Prenom</td>
+        <td>Role</td>
+        <td>age</td>
+    </tr>
+    <tr>
+        <td>Luigi</td>
+        <td>Mario</td>
+        <td>foundateur</td>
+        <td>35</td>
+    </tr>
+    <tr>
+        <td>Leonardo</td>
+        <td>Russo</td>
+        <td>chef</td>
+        <td>40</td>
+    </tr>
+    <tr>
+        <td>Nicole</td>
+        <td>Rossi</td>
+        <td>sous-chef</td>
+        <td>25</td>
+    </tr>
+    <tr>
+        <td>Marco</td>
+        <td>Pollo</td>
+        <td>serveur</td>
+        <td>29</td>
+    </tr>
+</table>
+</body>
+</html>
